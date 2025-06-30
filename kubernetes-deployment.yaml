@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mlops-app
-        image: us-central1-docker.pkg.dev/mlops-new-447207/my-repo/mlops-app:latest
+        image: us-central1-docker.pkg.dev/hidden-phalanx-464505-h0/my-repo-1/mlops-app:latest
         ports:
         - containerPort: 5000
 
