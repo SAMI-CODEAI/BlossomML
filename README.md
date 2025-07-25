@@ -1,4 +1,4 @@
-# 🪴 IRIS-MLOPS-PIPELINE
+# 🪴 BlossomML
 
 An end-to-end **MLOps pipeline** for training, deploying, and serving an Iris flower classification model using **Docker**, **GitHub Actions**, and **Google Cloud Platform Kubernetes Engine (GKE)**.
 
